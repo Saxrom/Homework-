@@ -1,0 +1,13 @@
+/Users/shahrom/Desktop/c#/homework/homework/obj/Debug/netcoreapp3.1/homework.csproj.AssemblyReference.cache
+/Users/shahrom/Desktop/c#/homework/homework/obj/Debug/netcoreapp3.1/homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahrom/Desktop/c#/homework/homework/obj/Debug/netcoreapp3.1/homework.AssemblyInfoInputs.cache
+/Users/shahrom/Desktop/c#/homework/homework/obj/Debug/netcoreapp3.1/homework.AssemblyInfo.cs
+/Users/shahrom/Desktop/c#/homework/homework/obj/Debug/netcoreapp3.1/homework.csproj.CoreCompileInputs.cache
+/Users/shahrom/Desktop/c#/homework/homework/bin/Debug/netcoreapp3.1/homework.deps.json
+/Users/shahrom/Desktop/c#/homework/homework/bin/Debug/netcoreapp3.1/homework.runtimeconfig.json
+/Users/shahrom/Desktop/c#/homework/homework/bin/Debug/netcoreapp3.1/homework.runtimeconfig.dev.json
+/Users/shahrom/Desktop/c#/homework/homework/bin/Debug/netcoreapp3.1/homework.dll
+/Users/shahrom/Desktop/c#/homework/homework/bin/Debug/netcoreapp3.1/homework.pdb
+/Users/shahrom/Desktop/c#/homework/homework/obj/Debug/netcoreapp3.1/homework.dll
+/Users/shahrom/Desktop/c#/homework/homework/obj/Debug/netcoreapp3.1/homework.pdb
+/Users/shahrom/Desktop/c#/homework/homework/obj/Debug/netcoreapp3.1/homework.genruntimeconfig.cache
